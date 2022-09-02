@@ -1,5 +1,8 @@
 print("hello Blackwins tech")
 
-l = [1,2,3,34,5,6]
-for i in l :
-    print({}.format(l))
+name= ["Lavanya" , 'RajMohan', "Shankar"]
+m = len(name)
+print(m)
+for i in name :
+    print("{} welcome to blackwins tech ".format(i))
+    
